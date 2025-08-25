@@ -39,8 +39,10 @@ Dataset.xlsx → Raw data used for dashboard
 Screenshots/ → Contains images of dashboard pages for quick reference
 
 ## 🔹 Project Demo | 
-(Dashboard_SS1.png)
-(Dashboard_SS2.png)
+
+![Page1](Dashboard_SS1.png)
+
+![Page2](Dashboard_SS2.png)
 
 
 ## 🔹Author
